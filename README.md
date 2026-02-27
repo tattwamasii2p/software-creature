@@ -7,3 +7,5 @@ Made after my project https://github.com/asmexcaliburwoods/buguldey-aicommunity-
 
 ## `.plsc` DSL repo
   * https://github.com/hypnosis-i2p/software-creature-pl-oberonlike-dsl
+
+interface SoftwareCreatureAvatar { (*intentionally left empty*) }
