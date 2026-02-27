@@ -1,5 +1,5 @@
 # software-creature
-software-creature-having-evidence-verifiable-ai
+A software creature having evidence-based verifiable AI, forget general AI and forget ancient greek generalizators
 
 Made after my project https://github.com/asmexcaliburwoods/buguldey-aicommunity-info-foss/tree/master/eclipse_projects/god_and_adam_older_backup
 
