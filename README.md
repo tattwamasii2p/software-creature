@@ -7,6 +7,9 @@ Made after my project https://github.com/asmexcaliburwoods/buguldey-aicommunity-
 
 <img src=https://raw.githubusercontent.com/hypnosis-i2p/software-creature/refs/heads/main/god_and_adam.png width='100%'>
 
+## currently prototyping in Java
+  * project.east4_2026NSNN1
+
 ## `.plsc` DSL definition repo
   * https://github.com/tattwamasii2p/software-creature-pl-oberonlike-dsl
 
