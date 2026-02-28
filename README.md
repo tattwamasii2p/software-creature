@@ -8,7 +8,7 @@ Made after my project https://github.com/asmexcaliburwoods/buguldey-aicommunity-
 <img src=https://raw.githubusercontent.com/hypnosis-i2p/software-creature/refs/heads/main/god_and_adam.png width='100%'>
 
 ## `.plsc` DSL definition repo
-  * https://github.com/hypnosis-i2p/software-creature-pl-oberonlike-dsl
+  * https://github.com/tattwamasii2p/software-creature-pl-oberonlike-dsl
 
 ```plsc
 interface SoftwareCreatureAvatar { (*intentionally left empty*) }
