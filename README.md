@@ -11,7 +11,7 @@ See also:
   * https://github.com/asmexcaliburwoods/buguldey-aicommunity-info-foss/tree/master/eclipse_projects/east2
 
 ## currently prototyping in Java
-  * project.east4_2026NSNN1 https://github.com/tattwamasii2p/east4_2026NSNN1
+  * Verifiable AI kernel: https://github.com/tattwamasii2p/east4 project.east4
 
 ## `.plsc` DSL definition repo
   * https://github.com/tattwamasii2p/software-creature-pl-oberonlike-dsl
